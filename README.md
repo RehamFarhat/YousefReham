@@ -38,14 +38,14 @@ run the code in its order.
 if you intend to run the map code, please delete the files tweets.tsv and tweets_tmp.tsv and then run the relevant code or skip the part of Tweet data creation and continue to next part (Data loader of the tweets).
 
 ### Files
-1.  **implementations/ tweets_extractor.py**: includes the implementation of
+1.  **implementations/ tweets_extractor.py**:<br /> includes the implementation of
 extracting tweets related to abortion, the extracting based on a list of hashtags
 using the twitter API.
-2. **implementations/tweets_location.py** : this file includes the implementation of
+2. **implementations/tweets_location.py** :<br /> this file includes the implementation of
 extracting additional data for tweets test and train data set, using twitter API.
-3. **implementations/models.py:**
+3. **implementations/models.py:**<br />
 This file holds the implementation of all the models and different parts of them.
-4.  **implementations/training.py:**
+4.  **implementations/training.py:**<br />
 This file holds the training and evaluation functions of the models
 5.  
 6. 

@@ -47,22 +47,22 @@ extracting additional data for tweets test and train data set, using twitter API
 This file holds the implementation of all the models and different parts of them.
 4.  **implementations/training.py:**<br />
 This file holds the training and evaluation functions of the models
-5.  **data-all-annotations:**:<br />
+5.  **data-all-annotations:**<br />
 This file holds the training and testing datasets we used to train and evaluate our
 model.
-6. **checkpoints:**:<br />
+6. **checkpoints:**<br />
 This file holds the weights of our trained models and is used to initialize the
 models in the notebook.
-7. **pre-training-embeddings:**:<br />
+7. **pre-training-embeddings:**<br />
 This file holds the pretrained embedding weights used to initialize our
 embedding layers.
-8. **Figures:**:<br />
+8. **Figures:**<br />
 This file holds the figures representing our different results.
-9. **Tweets_tmp.tsv:**:<br /> includes tweets from the twitter in the format: local id, text
+9. **Tweets_tmp.tsv:**<br /> includes tweets from the twitter in the format: local id, text
 screen_name and location. 
-10. **Tweets.tsv :**:<br /> the same as tweets_tmp.tsv , but includes a location coordinate for
+10. **Tweets.tsv :**<br /> the same as tweets_tmp.tsv , but includes a location coordinate for
 each of the tweets, we used the tweets in the map visualizing part.
-11. **our_notebook.ipynb:**:<br />
+11. **our_notebook.ipynb:**<br />
 This file is a notebook in the jupyter lab format that executes our models and
 algorithms.
 <!-- CONTACT -->

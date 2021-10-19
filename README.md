@@ -16,7 +16,7 @@
 1.  download anaconda 
 2.  download jupyter lab 3.0.11
 3.  download [glove.twitter.27B.200d.txt](https://www.kaggle.com/fullmetal26/glovetwitter27b100dtxt/activity) from kaggle.
-4.  download the [AI_project](https://github.com/RehamFarhat/AI_Project_abortion/tree/main/AI_project) folder from the [repo](https://github.com/RehamFarhat/AI_Project_abortion)
+4.  download the [AI_project](https://github.com/RehamFarhat/YousefReham/tree/main/AI_project) folder from the [repo](https://github.com/RehamFarhat/YousefReham.git)
 
 create a new folder and name it pretraind_emmbedings and add it to the AI_project folder, then move the glove.twitter.27B.200d.txt file to it.
 

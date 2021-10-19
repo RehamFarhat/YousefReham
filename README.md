@@ -7,7 +7,7 @@
     <li><a href="#Download">Download</a></li>
     <li><a href="#Activate-enviroment-with">Activate enviroment with</a></li>
     <li><a href="#in-jupyter">in jupyter</a></li>
-    <li><a href="#Files">in jupyter</a></li>
+    <li><a href="#Files">Files</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
